@@ -1,2 +1,3 @@
 # chatBot
 🤖 A conversational AI chatbot built with Node.js and Google Gemini API for natural language interaction.
+click on the url to open the deployed website demo - <a href=" https://chat-bot-three-opal.vercel.app/">https://chat-bot-three-opal.vercel.app/</a>
